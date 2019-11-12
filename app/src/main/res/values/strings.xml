@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asistente Robo-Hacker</string>
+    <string name="titulo_escuchado">Usuario</string>
+    <string name="texto_escuchado">Escuchado</string>
+    <string name="titulo_respuesta">Robo-hacker</string>
+    <string name="texto_respuesta">Respuesta</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
